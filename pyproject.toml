@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ibovselic"
+version = "0.1.0"
+description = "Comparative analysis helpers for IBOVESPA and SELIC time series (2010-2024)."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [
+    { name = "Cristiano Botelho" },
+]
+dependencies = [
+    "requests>=2.32",
+    "pydantic>=2.7",
+]
+
+[project.optional-dependencies]
+analysis = [
+    "jupyter>=1.0",
+    "matplotlib>=3.8",
+    "numpy>=2.0",
+    "pandas>=2.2",
+    "seaborn>=0.13",
+    "statsmodels>=0.14",
+]
+
+[project.scripts]
+ibovselic = "ibovselic.cli:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

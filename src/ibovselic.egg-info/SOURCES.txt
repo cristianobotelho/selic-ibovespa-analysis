@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/ibovselic/__init__.py
+src/ibovselic/cli.py
+src/ibovselic/exporter.py
+src/ibovselic/models.py
+src/ibovselic.egg-info/PKG-INFO
+src/ibovselic.egg-info/SOURCES.txt
+src/ibovselic.egg-info/dependency_links.txt
+src/ibovselic.egg-info/entry_points.txt
+src/ibovselic.egg-info/requires.txt
+src/ibovselic.egg-info/top_level.txt
+src/ibovselic/sources/__init__.py
+src/ibovselic/sources/ibov.py
+src/ibovselic/sources/selic.py

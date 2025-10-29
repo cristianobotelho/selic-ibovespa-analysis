@@ -1,0 +1,65 @@
+﻿# IBOV x SELIC Explorer
+
+Tools and notebooks used in the monograph "Analise comparativa entre o desempenho do IBOVESPA e a evolucao da taxa SELIC no Brasil (2010-2024)". The repository is now structured as a small Python package plus reproducible notebooks so that anyone can download the datasets and revisit the analysis.
+
+## Highlights
+- Clean src-based package (`ibovselic`) with reusable fetchers for IBOVESPA and SELIC time series
+- Command line interface (`ibovselic` or `python -m ibovselic.cli`) for exporting JSON datasets in one step
+- Editable install with optional extra dependencies for exploratory notebooks and statistical analysis
+- Ready-to-run Jupyter notebooks documenting the full workflow together with small sample datasets
+
+## Quick start
+1. Create a virtual environment (Python 3.11 or newer is recommended):
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
+   ```
+2. Install the project in editable mode together with the notebook stack:
+   ```bash
+   pip install -e .[analysis]
+   ```
+3. Export the raw datasets used throughout the study (adjust years as needed):
+   ```bash
+   ibovselic --start-year 2010 --end-year 2024
+   ```
+   The command stores three JSON files under `data/raw/` (`history_ibov.json`, `history_selic.json`, `history_selic_meta.json`).
+
+> Tip: you can also call `python scripts/export_data.py --start-year 2010 --end-year 2024 --verbose` if you prefer to stay within the repository.
+
+## Repository layout
+```
+.
+├── data/
+│   ├── raw/                 # Output folder for downloaded datasets (gitignored)
+│   └── sample/              # Snapshot used for quick notebook demos
+├── notebooks/               # Jupyter notebooks for the comparative analysis
+├── scripts/
+│   └── export_data.py       # Thin wrapper around the CLI
+├── src/
+│   └── ibovselic/           # Python package with exporters and data source clients
+├── pyproject.toml           # Project metadata and dependencies
+└── README.md
+```
+
+## Working with the data
+- `ibovselic.exporter.MarketDataExporter` exposes high level helpers (`export_ibov`, `export_selic`, `export_selic_meta`) and batches API requests in ten-year chunks to avoid rate limits.
+- The Banco Central SGS API and the B3 index statistics API are queried directly; check their official documentation for service limits.
+- The package always writes UTF-8 JSON with ISO formatted dates. The resulting files can be loaded straight into pandas or any other tool that understands JSON arrays.
+
+## Notebooks
+The original research notebooks remain under `notebooks/`. Each notebook now imports `ibovselic` directly, so activating the virtual environment and running `pip install -e .[analysis]` is enough before launching Jupyter:
+```bash
+jupyter lab
+```
+The first notebook cell handles the path setup and creates the `data/raw/` folder automatically.
+
+## Sample datasets
+`data/sample/` contains the three JSON files exported on 2024-10-27. They provide an immediate reference without requiring a fresh download, but you should regenerate them to ensure you are working with the latest information.
+
+## Known limitations
+- Network connectivity is required to download fresh data from B3 and the Banco Central.
+- Public APIs may introduce throttling or format changes. Error messages from the CLI include enough detail to investigate failures.
+- The time series cover 2010-2024 by default; adjust the CLI arguments if you need a different window.
+
+## License
+This project is distributed under the MIT License. See `LICENSE` if you plan to reuse the code.

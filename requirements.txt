@@ -1,0 +1,2 @@
+﻿# Install the library in editable mode with optional notebook dependencies
+-e .[analysis]

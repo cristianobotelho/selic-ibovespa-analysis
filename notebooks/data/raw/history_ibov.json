@@ -1,0 +1,1346 @@
+[
+  {
+    "date_reference": "2009-01-01",
+    "month": 1,
+    "year": 2009,
+    "index": "IBOV",
+    "value": 39300.79
+  },
+  {
+    "date_reference": "2009-02-01",
+    "month": 2,
+    "year": 2009,
+    "index": "IBOV",
+    "value": 38183.31
+  },
+  {
+    "date_reference": "2009-03-01",
+    "month": 3,
+    "year": 2009,
+    "index": "IBOV",
+    "value": 40925.87
+  },
+  {
+    "date_reference": "2009-04-01",
+    "month": 4,
+    "year": 2009,
+    "index": "IBOV",
+    "value": 47289.53
+  },
+  {
+    "date_reference": "2009-05-01",
+    "month": 5,
+    "year": 2009,
+    "index": "IBOV",
+    "value": 53197.73
+  },
+  {
+    "date_reference": "2009-06-01",
+    "month": 6,
+    "year": 2009,
+    "index": "IBOV",
+    "value": 51465.46
+  },
+  {
+    "date_reference": "2009-07-01",
+    "month": 7,
+    "year": 2009,
+    "index": "IBOV",
+    "value": 54765.72
+  },
+  {
+    "date_reference": "2009-08-01",
+    "month": 8,
+    "year": 2009,
+    "index": "IBOV",
+    "value": 56488.98
+  },
+  {
+    "date_reference": "2009-09-01",
+    "month": 9,
+    "year": 2009,
+    "index": "IBOV",
+    "value": 61517.89
+  },
+  {
+    "date_reference": "2009-10-01",
+    "month": 10,
+    "year": 2009,
+    "index": "IBOV",
+    "value": 61545.5
+  },
+  {
+    "date_reference": "2009-11-01",
+    "month": 11,
+    "year": 2009,
+    "index": "IBOV",
+    "value": 67044.44
+  },
+  {
+    "date_reference": "2009-12-01",
+    "month": 12,
+    "year": 2009,
+    "index": "IBOV",
+    "value": 68588.41
+  },
+  {
+    "date_reference": "2010-01-01",
+    "month": 1,
+    "year": 2010,
+    "index": "IBOV",
+    "value": 65401.77
+  },
+  {
+    "date_reference": "2010-02-01",
+    "month": 2,
+    "year": 2010,
+    "index": "IBOV",
+    "value": 66503.27
+  },
+  {
+    "date_reference": "2010-03-01",
+    "month": 3,
+    "year": 2010,
+    "index": "IBOV",
+    "value": 70371.54
+  },
+  {
+    "date_reference": "2010-04-01",
+    "month": 4,
+    "year": 2010,
+    "index": "IBOV",
+    "value": 67529.73
+  },
+  {
+    "date_reference": "2010-05-01",
+    "month": 5,
+    "year": 2010,
+    "index": "IBOV",
+    "value": 63046.51
+  },
+  {
+    "date_reference": "2010-06-01",
+    "month": 6,
+    "year": 2010,
+    "index": "IBOV",
+    "value": 60935.9
+  },
+  {
+    "date_reference": "2010-07-01",
+    "month": 7,
+    "year": 2010,
+    "index": "IBOV",
+    "value": 67515.4
+  },
+  {
+    "date_reference": "2010-08-01",
+    "month": 8,
+    "year": 2010,
+    "index": "IBOV",
+    "value": 65145.45
+  },
+  {
+    "date_reference": "2010-09-01",
+    "month": 9,
+    "year": 2010,
+    "index": "IBOV",
+    "value": 69429.78
+  },
+  {
+    "date_reference": "2010-10-01",
+    "month": 10,
+    "year": 2010,
+    "index": "IBOV",
+    "value": 70673.3
+  },
+  {
+    "date_reference": "2010-11-01",
+    "month": 11,
+    "year": 2010,
+    "index": "IBOV",
+    "value": 67705.4
+  },
+  {
+    "date_reference": "2010-12-01",
+    "month": 12,
+    "year": 2010,
+    "index": "IBOV",
+    "value": 69304.81
+  },
+  {
+    "date_reference": "2011-01-01",
+    "month": 1,
+    "year": 2011,
+    "index": "IBOV",
+    "value": 66574.88
+  },
+  {
+    "date_reference": "2011-02-01",
+    "month": 2,
+    "year": 2011,
+    "index": "IBOV",
+    "value": 67383.22
+  },
+  {
+    "date_reference": "2011-03-01",
+    "month": 3,
+    "year": 2011,
+    "index": "IBOV",
+    "value": 68586.7
+  },
+  {
+    "date_reference": "2011-04-01",
+    "month": 4,
+    "year": 2011,
+    "index": "IBOV",
+    "value": 66132.86
+  },
+  {
+    "date_reference": "2011-05-01",
+    "month": 5,
+    "year": 2011,
+    "index": "IBOV",
+    "value": 64620.08
+  },
+  {
+    "date_reference": "2011-06-01",
+    "month": 6,
+    "year": 2011,
+    "index": "IBOV",
+    "value": 62403.64
+  },
+  {
+    "date_reference": "2011-07-01",
+    "month": 7,
+    "year": 2011,
+    "index": "IBOV",
+    "value": 58823.45
+  },
+  {
+    "date_reference": "2011-08-01",
+    "month": 8,
+    "year": 2011,
+    "index": "IBOV",
+    "value": 56495.12
+  },
+  {
+    "date_reference": "2011-09-01",
+    "month": 9,
+    "year": 2011,
+    "index": "IBOV",
+    "value": 52324.42
+  },
+  {
+    "date_reference": "2011-10-01",
+    "month": 10,
+    "year": 2011,
+    "index": "IBOV",
+    "value": 58338.39
+  },
+  {
+    "date_reference": "2011-11-01",
+    "month": 11,
+    "year": 2011,
+    "index": "IBOV",
+    "value": 56874.98
+  },
+  {
+    "date_reference": "2011-12-01",
+    "month": 12,
+    "year": 2011,
+    "index": "IBOV",
+    "value": 56754.08
+  },
+  {
+    "date_reference": "2012-01-01",
+    "month": 1,
+    "year": 2012,
+    "index": "IBOV",
+    "value": 63072.31
+  },
+  {
+    "date_reference": "2012-02-01",
+    "month": 2,
+    "year": 2012,
+    "index": "IBOV",
+    "value": 65811.73
+  },
+  {
+    "date_reference": "2012-03-01",
+    "month": 3,
+    "year": 2012,
+    "index": "IBOV",
+    "value": 64510.97
+  },
+  {
+    "date_reference": "2012-04-01",
+    "month": 4,
+    "year": 2012,
+    "index": "IBOV",
+    "value": 61820.26
+  },
+  {
+    "date_reference": "2012-05-01",
+    "month": 5,
+    "year": 2012,
+    "index": "IBOV",
+    "value": 54490.41
+  },
+  {
+    "date_reference": "2012-06-01",
+    "month": 6,
+    "year": 2012,
+    "index": "IBOV",
+    "value": 54354.63
+  },
+  {
+    "date_reference": "2012-07-01",
+    "month": 7,
+    "year": 2012,
+    "index": "IBOV",
+    "value": 56097.05
+  },
+  {
+    "date_reference": "2012-08-01",
+    "month": 8,
+    "year": 2012,
+    "index": "IBOV",
+    "value": 57061.45
+  },
+  {
+    "date_reference": "2012-09-01",
+    "month": 9,
+    "year": 2012,
+    "index": "IBOV",
+    "value": 59175.8
+  },
+  {
+    "date_reference": "2012-10-01",
+    "month": 10,
+    "year": 2012,
+    "index": "IBOV",
+    "value": 57068.18
+  },
+  {
+    "date_reference": "2012-11-01",
+    "month": 11,
+    "year": 2012,
+    "index": "IBOV",
+    "value": 57474.57
+  },
+  {
+    "date_reference": "2012-12-01",
+    "month": 12,
+    "year": 2012,
+    "index": "IBOV",
+    "value": 60952.08
+  },
+  {
+    "date_reference": "2013-01-01",
+    "month": 1,
+    "year": 2013,
+    "index": "IBOV",
+    "value": 59761.49
+  },
+  {
+    "date_reference": "2013-02-01",
+    "month": 2,
+    "year": 2013,
+    "index": "IBOV",
+    "value": 57424.29
+  },
+  {
+    "date_reference": "2013-03-01",
+    "month": 3,
+    "year": 2013,
+    "index": "IBOV",
+    "value": 56352.09
+  },
+  {
+    "date_reference": "2013-04-01",
+    "month": 4,
+    "year": 2013,
+    "index": "IBOV",
+    "value": 55910.37
+  },
+  {
+    "date_reference": "2013-05-01",
+    "month": 5,
+    "year": 2013,
+    "index": "IBOV",
+    "value": 53506.08
+  },
+  {
+    "date_reference": "2013-06-01",
+    "month": 6,
+    "year": 2013,
+    "index": "IBOV",
+    "value": 47457.13
+  },
+  {
+    "date_reference": "2013-07-01",
+    "month": 7,
+    "year": 2013,
+    "index": "IBOV",
+    "value": 48234.49
+  },
+  {
+    "date_reference": "2013-08-01",
+    "month": 8,
+    "year": 2013,
+    "index": "IBOV",
+    "value": 50011.75
+  },
+  {
+    "date_reference": "2013-09-01",
+    "month": 9,
+    "year": 2013,
+    "index": "IBOV",
+    "value": 52338.19
+  },
+  {
+    "date_reference": "2013-10-01",
+    "month": 10,
+    "year": 2013,
+    "index": "IBOV",
+    "value": 54256.2
+  },
+  {
+    "date_reference": "2013-11-01",
+    "month": 11,
+    "year": 2013,
+    "index": "IBOV",
+    "value": 52482.49
+  },
+  {
+    "date_reference": "2013-12-01",
+    "month": 12,
+    "year": 2013,
+    "index": "IBOV",
+    "value": 51507.16
+  },
+  {
+    "date_reference": "2014-01-01",
+    "month": 1,
+    "year": 2014,
+    "index": "IBOV",
+    "value": 47638.99
+  },
+  {
+    "date_reference": "2014-02-01",
+    "month": 2,
+    "year": 2014,
+    "index": "IBOV",
+    "value": 47094.4
+  },
+  {
+    "date_reference": "2014-03-01",
+    "month": 3,
+    "year": 2014,
+    "index": "IBOV",
+    "value": 50414.92
+  },
+  {
+    "date_reference": "2014-04-01",
+    "month": 4,
+    "year": 2014,
+    "index": "IBOV",
+    "value": 51626.69
+  },
+  {
+    "date_reference": "2014-05-01",
+    "month": 5,
+    "year": 2014,
+    "index": "IBOV",
+    "value": 51239.34
+  },
+  {
+    "date_reference": "2014-06-01",
+    "month": 6,
+    "year": 2014,
+    "index": "IBOV",
+    "value": 53168.22
+  },
+  {
+    "date_reference": "2014-07-01",
+    "month": 7,
+    "year": 2014,
+    "index": "IBOV",
+    "value": 55829.41
+  },
+  {
+    "date_reference": "2014-08-01",
+    "month": 8,
+    "year": 2014,
+    "index": "IBOV",
+    "value": 61288.15
+  },
+  {
+    "date_reference": "2014-09-01",
+    "month": 9,
+    "year": 2014,
+    "index": "IBOV",
+    "value": 54115.98
+  },
+  {
+    "date_reference": "2014-10-01",
+    "month": 10,
+    "year": 2014,
+    "index": "IBOV",
+    "value": 54628.6
+  },
+  {
+    "date_reference": "2014-11-01",
+    "month": 11,
+    "year": 2014,
+    "index": "IBOV",
+    "value": 54724.0
+  },
+  {
+    "date_reference": "2014-12-01",
+    "month": 12,
+    "year": 2014,
+    "index": "IBOV",
+    "value": 50007.41
+  },
+  {
+    "date_reference": "2015-01-01",
+    "month": 1,
+    "year": 2015,
+    "index": "IBOV",
+    "value": 46907.68
+  },
+  {
+    "date_reference": "2015-02-01",
+    "month": 2,
+    "year": 2015,
+    "index": "IBOV",
+    "value": 51583.09
+  },
+  {
+    "date_reference": "2015-03-01",
+    "month": 3,
+    "year": 2015,
+    "index": "IBOV",
+    "value": 51150.16
+  },
+  {
+    "date_reference": "2015-04-01",
+    "month": 4,
+    "year": 2015,
+    "index": "IBOV",
+    "value": 56229.38
+  },
+  {
+    "date_reference": "2015-05-01",
+    "month": 5,
+    "year": 2015,
+    "index": "IBOV",
+    "value": 52760.47
+  },
+  {
+    "date_reference": "2015-06-01",
+    "month": 6,
+    "year": 2015,
+    "index": "IBOV",
+    "value": 53080.88
+  },
+  {
+    "date_reference": "2015-07-01",
+    "month": 7,
+    "year": 2015,
+    "index": "IBOV",
+    "value": 50864.77
+  },
+  {
+    "date_reference": "2015-08-01",
+    "month": 8,
+    "year": 2015,
+    "index": "IBOV",
+    "value": 46625.52
+  },
+  {
+    "date_reference": "2015-09-01",
+    "month": 9,
+    "year": 2015,
+    "index": "IBOV",
+    "value": 45059.34
+  },
+  {
+    "date_reference": "2015-10-01",
+    "month": 10,
+    "year": 2015,
+    "index": "IBOV",
+    "value": 45868.81
+  },
+  {
+    "date_reference": "2015-11-01",
+    "month": 11,
+    "year": 2015,
+    "index": "IBOV",
+    "value": 45120.36
+  },
+  {
+    "date_reference": "2015-12-01",
+    "month": 12,
+    "year": 2015,
+    "index": "IBOV",
+    "value": 43349.96
+  },
+  {
+    "date_reference": "2016-01-01",
+    "month": 1,
+    "year": 2016,
+    "index": "IBOV",
+    "value": 40405.99
+  },
+  {
+    "date_reference": "2016-02-01",
+    "month": 2,
+    "year": 2016,
+    "index": "IBOV",
+    "value": 42793.86
+  },
+  {
+    "date_reference": "2016-03-01",
+    "month": 3,
+    "year": 2016,
+    "index": "IBOV",
+    "value": 50055.27
+  },
+  {
+    "date_reference": "2016-04-01",
+    "month": 4,
+    "year": 2016,
+    "index": "IBOV",
+    "value": 53910.5
+  },
+  {
+    "date_reference": "2016-05-01",
+    "month": 5,
+    "year": 2016,
+    "index": "IBOV",
+    "value": 48471.7
+  },
+  {
+    "date_reference": "2016-06-01",
+    "month": 6,
+    "year": 2016,
+    "index": "IBOV",
+    "value": 51526.92
+  },
+  {
+    "date_reference": "2016-07-01",
+    "month": 7,
+    "year": 2016,
+    "index": "IBOV",
+    "value": 57308.2
+  },
+  {
+    "date_reference": "2016-08-01",
+    "month": 8,
+    "year": 2016,
+    "index": "IBOV",
+    "value": 57901.1
+  },
+  {
+    "date_reference": "2016-09-01",
+    "month": 9,
+    "year": 2016,
+    "index": "IBOV",
+    "value": 58367.04
+  },
+  {
+    "date_reference": "2016-10-01",
+    "month": 10,
+    "year": 2016,
+    "index": "IBOV",
+    "value": 64924.51
+  },
+  {
+    "date_reference": "2016-11-01",
+    "month": 11,
+    "year": 2016,
+    "index": "IBOV",
+    "value": 61906.35
+  },
+  {
+    "date_reference": "2016-12-01",
+    "month": 12,
+    "year": 2016,
+    "index": "IBOV",
+    "value": 60227.28
+  },
+  {
+    "date_reference": "2017-01-01",
+    "month": 1,
+    "year": 2017,
+    "index": "IBOV",
+    "value": 64670.78
+  },
+  {
+    "date_reference": "2017-02-01",
+    "month": 2,
+    "year": 2017,
+    "index": "IBOV",
+    "value": 66662.1
+  },
+  {
+    "date_reference": "2017-03-01",
+    "month": 3,
+    "year": 2017,
+    "index": "IBOV",
+    "value": 64984.06
+  },
+  {
+    "date_reference": "2017-04-01",
+    "month": 4,
+    "year": 2017,
+    "index": "IBOV",
+    "value": 65403.24
+  },
+  {
+    "date_reference": "2017-05-01",
+    "month": 5,
+    "year": 2017,
+    "index": "IBOV",
+    "value": 62711.47
+  },
+  {
+    "date_reference": "2017-06-01",
+    "month": 6,
+    "year": 2017,
+    "index": "IBOV",
+    "value": 62899.97
+  },
+  {
+    "date_reference": "2017-07-01",
+    "month": 7,
+    "year": 2017,
+    "index": "IBOV",
+    "value": 65920.36
+  },
+  {
+    "date_reference": "2017-08-01",
+    "month": 8,
+    "year": 2017,
+    "index": "IBOV",
+    "value": 70835.05
+  },
+  {
+    "date_reference": "2017-09-01",
+    "month": 9,
+    "year": 2017,
+    "index": "IBOV",
+    "value": 74293.5
+  },
+  {
+    "date_reference": "2017-10-01",
+    "month": 10,
+    "year": 2017,
+    "index": "IBOV",
+    "value": 74308.49
+  },
+  {
+    "date_reference": "2017-11-01",
+    "month": 11,
+    "year": 2017,
+    "index": "IBOV",
+    "value": 71970.99
+  },
+  {
+    "date_reference": "2017-12-01",
+    "month": 12,
+    "year": 2017,
+    "index": "IBOV",
+    "value": 76402.08197524566
+  },
+  {
+    "date_reference": "2018-01-01",
+    "month": 1,
+    "year": 2018,
+    "index": "IBOV",
+    "value": 84912.69973334727
+  },
+  {
+    "date_reference": "2018-02-01",
+    "month": 2,
+    "year": 2018,
+    "index": "IBOV",
+    "value": 85353.59506468225
+  },
+  {
+    "date_reference": "2018-03-01",
+    "month": 3,
+    "year": 2018,
+    "index": "IBOV",
+    "value": 85365.56447307351
+  },
+  {
+    "date_reference": "2018-04-01",
+    "month": 4,
+    "year": 2018,
+    "index": "IBOV",
+    "value": 86115.49886659303
+  },
+  {
+    "date_reference": "2018-05-01",
+    "month": 5,
+    "year": 2018,
+    "index": "IBOV",
+    "value": 76753.6135611658
+  },
+  {
+    "date_reference": "2018-06-01",
+    "month": 6,
+    "year": 2018,
+    "index": "IBOV",
+    "value": 72762.51981805394
+  },
+  {
+    "date_reference": "2018-07-01",
+    "month": 7,
+    "year": 2018,
+    "index": "IBOV",
+    "value": 79220.43839677246
+  },
+  {
+    "date_reference": "2018-08-01",
+    "month": 8,
+    "year": 2018,
+    "index": "IBOV",
+    "value": 76677.53176936721
+  },
+  {
+    "date_reference": "2018-09-01",
+    "month": 9,
+    "year": 2018,
+    "index": "IBOV",
+    "value": 79342.42766809858
+  },
+  {
+    "date_reference": "2018-10-01",
+    "month": 10,
+    "year": 2018,
+    "index": "IBOV",
+    "value": 87423.55250605296
+  },
+  {
+    "date_reference": "2018-11-01",
+    "month": 11,
+    "year": 2018,
+    "index": "IBOV",
+    "value": 89504.0321992883
+  },
+  {
+    "date_reference": "2018-12-01",
+    "month": 12,
+    "year": 2018,
+    "index": "IBOV",
+    "value": 87887.26938229824
+  },
+  {
+    "date_reference": "2019-01-01",
+    "month": 1,
+    "year": 2019,
+    "index": "IBOV",
+    "value": 97393.74770025742
+  },
+  {
+    "date_reference": "2019-02-01",
+    "month": 2,
+    "year": 2019,
+    "index": "IBOV",
+    "value": 95584.35336327342
+  },
+  {
+    "date_reference": "2019-03-01",
+    "month": 3,
+    "year": 2019,
+    "index": "IBOV",
+    "value": 95414.55740914034
+  },
+  {
+    "date_reference": "2019-04-01",
+    "month": 4,
+    "year": 2019,
+    "index": "IBOV",
+    "value": 96353.33
+  },
+  {
+    "date_reference": "2019-05-01",
+    "month": 5,
+    "year": 2019,
+    "index": "IBOV",
+    "value": 97030.32
+  },
+  {
+    "date_reference": "2019-06-01",
+    "month": 6,
+    "year": 2019,
+    "index": "IBOV",
+    "value": 100967.2
+  },
+  {
+    "date_reference": "2019-07-01",
+    "month": 7,
+    "year": 2019,
+    "index": "IBOV",
+    "value": 101812.13
+  },
+  {
+    "date_reference": "2019-08-01",
+    "month": 8,
+    "year": 2019,
+    "index": "IBOV",
+    "value": 101134.61
+  },
+  {
+    "date_reference": "2019-09-01",
+    "month": 9,
+    "year": 2019,
+    "index": "IBOV",
+    "value": 104745.32
+  },
+  {
+    "date_reference": "2019-10-01",
+    "month": 10,
+    "year": 2019,
+    "index": "IBOV",
+    "value": 107219.83
+  },
+  {
+    "date_reference": "2019-11-01",
+    "month": 11,
+    "year": 2019,
+    "index": "IBOV",
+    "value": 108233.28
+  },
+  {
+    "date_reference": "2019-12-01",
+    "month": 12,
+    "year": 2019,
+    "index": "IBOV",
+    "value": 115645.34
+  },
+  {
+    "date_reference": "2020-01-01",
+    "month": 1,
+    "year": 2020,
+    "index": "IBOV",
+    "value": 113760.57
+  },
+  {
+    "date_reference": "2020-02-01",
+    "month": 2,
+    "year": 2020,
+    "index": "IBOV",
+    "value": 104171.57
+  },
+  {
+    "date_reference": "2020-03-01",
+    "month": 3,
+    "year": 2020,
+    "index": "IBOV",
+    "value": 73019.76
+  },
+  {
+    "date_reference": "2020-04-01",
+    "month": 4,
+    "year": 2020,
+    "index": "IBOV",
+    "value": 80505.89
+  },
+  {
+    "date_reference": "2020-05-01",
+    "month": 5,
+    "year": 2020,
+    "index": "IBOV",
+    "value": 87402.59
+  },
+  {
+    "date_reference": "2020-06-01",
+    "month": 6,
+    "year": 2020,
+    "index": "IBOV",
+    "value": 95055.82
+  },
+  {
+    "date_reference": "2020-07-01",
+    "month": 7,
+    "year": 2020,
+    "index": "IBOV",
+    "value": 102912.24
+  },
+  {
+    "date_reference": "2020-08-01",
+    "month": 8,
+    "year": 2020,
+    "index": "IBOV",
+    "value": 99369.15
+  },
+  {
+    "date_reference": "2020-09-01",
+    "month": 9,
+    "year": 2020,
+    "index": "IBOV",
+    "value": 94603.38
+  },
+  {
+    "date_reference": "2020-10-01",
+    "month": 10,
+    "year": 2020,
+    "index": "IBOV",
+    "value": 93952.4
+  },
+  {
+    "date_reference": "2020-11-01",
+    "month": 11,
+    "year": 2020,
+    "index": "IBOV",
+    "value": 108893.32
+  },
+  {
+    "date_reference": "2020-12-01",
+    "month": 12,
+    "year": 2020,
+    "index": "IBOV",
+    "value": 119017.24
+  },
+  {
+    "date_reference": "2021-01-01",
+    "month": 1,
+    "year": 2021,
+    "index": "IBOV",
+    "value": 115067.55
+  },
+  {
+    "date_reference": "2021-02-01",
+    "month": 2,
+    "year": 2021,
+    "index": "IBOV",
+    "value": 110035.17
+  },
+  {
+    "date_reference": "2021-03-01",
+    "month": 3,
+    "year": 2021,
+    "index": "IBOV",
+    "value": 116633.72
+  },
+  {
+    "date_reference": "2021-04-01",
+    "month": 4,
+    "year": 2021,
+    "index": "IBOV",
+    "value": 118893.84
+  },
+  {
+    "date_reference": "2021-05-01",
+    "month": 5,
+    "year": 2021,
+    "index": "IBOV",
+    "value": 126215.73
+  },
+  {
+    "date_reference": "2021-06-01",
+    "month": 6,
+    "year": 2021,
+    "index": "IBOV",
+    "value": 126801.66
+  },
+  {
+    "date_reference": "2021-07-01",
+    "month": 7,
+    "year": 2021,
+    "index": "IBOV",
+    "value": 121800.79
+  },
+  {
+    "date_reference": "2021-08-01",
+    "month": 8,
+    "year": 2021,
+    "index": "IBOV",
+    "value": 118781.03
+  },
+  {
+    "date_reference": "2021-09-01",
+    "month": 9,
+    "year": 2021,
+    "index": "IBOV",
+    "value": 110979.1
+  },
+  {
+    "date_reference": "2021-10-01",
+    "month": 10,
+    "year": 2021,
+    "index": "IBOV",
+    "value": 103500.71
+  },
+  {
+    "date_reference": "2021-11-01",
+    "month": 11,
+    "year": 2021,
+    "index": "IBOV",
+    "value": 101915.45
+  },
+  {
+    "date_reference": "2021-12-01",
+    "month": 12,
+    "year": 2021,
+    "index": "IBOV",
+    "value": 104822.44
+  },
+  {
+    "date_reference": "2022-01-01",
+    "month": 1,
+    "year": 2022,
+    "index": "IBOV",
+    "value": 112143.51
+  },
+  {
+    "date_reference": "2022-02-01",
+    "month": 2,
+    "year": 2022,
+    "index": "IBOV",
+    "value": 113141.94
+  },
+  {
+    "date_reference": "2022-03-01",
+    "month": 3,
+    "year": 2022,
+    "index": "IBOV",
+    "value": 119999.23
+  },
+  {
+    "date_reference": "2022-04-01",
+    "month": 4,
+    "year": 2022,
+    "index": "IBOV",
+    "value": 107876.16
+  },
+  {
+    "date_reference": "2022-05-01",
+    "month": 5,
+    "year": 2022,
+    "index": "IBOV",
+    "value": 111350.51
+  },
+  {
+    "date_reference": "2022-06-01",
+    "month": 6,
+    "year": 2022,
+    "index": "IBOV",
+    "value": 98541.95
+  },
+  {
+    "date_reference": "2022-07-01",
+    "month": 7,
+    "year": 2022,
+    "index": "IBOV",
+    "value": 103164.69
+  },
+  {
+    "date_reference": "2022-08-01",
+    "month": 8,
+    "year": 2022,
+    "index": "IBOV",
+    "value": 109522.88
+  },
+  {
+    "date_reference": "2022-09-01",
+    "month": 9,
+    "year": 2022,
+    "index": "IBOV",
+    "value": 110036.79
+  },
+  {
+    "date_reference": "2022-10-01",
+    "month": 10,
+    "year": 2022,
+    "index": "IBOV",
+    "value": 116037.08
+  },
+  {
+    "date_reference": "2022-11-01",
+    "month": 11,
+    "year": 2022,
+    "index": "IBOV",
+    "value": 112486.01
+  },
+  {
+    "date_reference": "2022-12-01",
+    "month": 12,
+    "year": 2022,
+    "index": "IBOV",
+    "value": 109734.6
+  },
+  {
+    "date_reference": "2023-01-01",
+    "month": 1,
+    "year": 2023,
+    "index": "IBOV",
+    "value": 113430.54
+  },
+  {
+    "date_reference": "2023-02-01",
+    "month": 2,
+    "year": 2023,
+    "index": "IBOV",
+    "value": 104931.93
+  },
+  {
+    "date_reference": "2023-03-01",
+    "month": 3,
+    "year": 2023,
+    "index": "IBOV",
+    "value": 101882.2
+  },
+  {
+    "date_reference": "2023-04-01",
+    "month": 4,
+    "year": 2023,
+    "index": "IBOV",
+    "value": 104431.63
+  },
+  {
+    "date_reference": "2023-05-01",
+    "month": 5,
+    "year": 2023,
+    "index": "IBOV",
+    "value": 108335.07
+  },
+  {
+    "date_reference": "2023-06-01",
+    "month": 6,
+    "year": 2023,
+    "index": "IBOV",
+    "value": 118087.0
+  },
+  {
+    "date_reference": "2023-07-01",
+    "month": 7,
+    "year": 2023,
+    "index": "IBOV",
+    "value": 121942.98
+  },
+  {
+    "date_reference": "2023-08-01",
+    "month": 8,
+    "year": 2023,
+    "index": "IBOV",
+    "value": 115741.81
+  },
+  {
+    "date_reference": "2023-09-01",
+    "month": 9,
+    "year": 2023,
+    "index": "IBOV",
+    "value": 116565.17
+  },
+  {
+    "date_reference": "2023-10-01",
+    "month": 10,
+    "year": 2023,
+    "index": "IBOV",
+    "value": 113143.67
+  },
+  {
+    "date_reference": "2023-11-01",
+    "month": 11,
+    "year": 2023,
+    "index": "IBOV",
+    "value": 127331.12
+  },
+  {
+    "date_reference": "2023-12-01",
+    "month": 12,
+    "year": 2023,
+    "index": "IBOV",
+    "value": 134185.24
+  },
+  {
+    "date_reference": "2024-01-01",
+    "month": 1,
+    "year": 2024,
+    "index": "IBOV",
+    "value": 127752.28
+  },
+  {
+    "date_reference": "2024-02-01",
+    "month": 2,
+    "year": 2024,
+    "index": "IBOV",
+    "value": 129020.02
+  },
+  {
+    "date_reference": "2024-03-01",
+    "month": 3,
+    "year": 2024,
+    "index": "IBOV",
+    "value": 128106.1
+  },
+  {
+    "date_reference": "2024-04-01",
+    "month": 4,
+    "year": 2024,
+    "index": "IBOV",
+    "value": 125924.19
+  },
+  {
+    "date_reference": "2024-05-01",
+    "month": 5,
+    "year": 2024,
+    "index": "IBOV",
+    "value": 122098.09
+  },
+  {
+    "date_reference": "2024-06-01",
+    "month": 6,
+    "year": 2024,
+    "index": "IBOV",
+    "value": 123906.55
+  },
+  {
+    "date_reference": "2024-07-01",
+    "month": 7,
+    "year": 2024,
+    "index": "IBOV",
+    "value": 127651.81
+  },
+  {
+    "date_reference": "2024-08-01",
+    "month": 8,
+    "year": 2024,
+    "index": "IBOV",
+    "value": 136004.01
+  },
+  {
+    "date_reference": "2024-09-01",
+    "month": 9,
+    "year": 2024,
+    "index": "IBOV",
+    "value": 131816.44
+  },
+  {
+    "date_reference": "2024-10-01",
+    "month": 10,
+    "year": 2024,
+    "index": "IBOV",
+    "value": 129713.33
+  },
+  {
+    "date_reference": "2024-11-01",
+    "month": 11,
+    "year": 2024,
+    "index": "IBOV",
+    "value": 125667.83
+  },
+  {
+    "date_reference": "2024-12-01",
+    "month": 12,
+    "year": 2024,
+    "index": "IBOV",
+    "value": 120283.4
+  }
+]

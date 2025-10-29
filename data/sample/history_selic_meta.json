@@ -1,0 +1,1346 @@
+[
+  {
+    "date_reference": "2009-01-01",
+    "month": 1,
+    "year": 2009,
+    "index": "SELIC",
+    "value": 13.26
+  },
+  {
+    "date_reference": "2009-02-01",
+    "month": 2,
+    "year": 2009,
+    "index": "SELIC",
+    "value": 12.62
+  },
+  {
+    "date_reference": "2009-03-01",
+    "month": 3,
+    "year": 2009,
+    "index": "SELIC",
+    "value": 11.65
+  },
+  {
+    "date_reference": "2009-04-01",
+    "month": 4,
+    "year": 2009,
+    "index": "SELIC",
+    "value": 11.05
+  },
+  {
+    "date_reference": "2009-05-01",
+    "month": 5,
+    "year": 2009,
+    "index": "SELIC",
+    "value": 10.1
+  },
+  {
+    "date_reference": "2009-06-01",
+    "month": 6,
+    "year": 2009,
+    "index": "SELIC",
+    "value": 9.4
+  },
+  {
+    "date_reference": "2009-07-01",
+    "month": 7,
+    "year": 2009,
+    "index": "SELIC",
+    "value": 8.93
+  },
+  {
+    "date_reference": "2009-08-01",
+    "month": 8,
+    "year": 2009,
+    "index": "SELIC",
+    "value": 8.62
+  },
+  {
+    "date_reference": "2009-09-01",
+    "month": 9,
+    "year": 2009,
+    "index": "SELIC",
+    "value": 8.62
+  },
+  {
+    "date_reference": "2009-10-01",
+    "month": 10,
+    "year": 2009,
+    "index": "SELIC",
+    "value": 8.62
+  },
+  {
+    "date_reference": "2009-11-01",
+    "month": 11,
+    "year": 2009,
+    "index": "SELIC",
+    "value": 8.63
+  },
+  {
+    "date_reference": "2009-12-01",
+    "month": 12,
+    "year": 2009,
+    "index": "SELIC",
+    "value": 8.61
+  },
+  {
+    "date_reference": "2010-01-01",
+    "month": 1,
+    "year": 2010,
+    "index": "SELIC",
+    "value": 8.62
+  },
+  {
+    "date_reference": "2010-02-01",
+    "month": 2,
+    "year": 2010,
+    "index": "SELIC",
+    "value": 8.62
+  },
+  {
+    "date_reference": "2010-03-01",
+    "month": 3,
+    "year": 2010,
+    "index": "SELIC",
+    "value": 8.61
+  },
+  {
+    "date_reference": "2010-04-01",
+    "month": 4,
+    "year": 2010,
+    "index": "SELIC",
+    "value": 8.7
+  },
+  {
+    "date_reference": "2010-05-01",
+    "month": 5,
+    "year": 2010,
+    "index": "SELIC",
+    "value": 9.38
+  },
+  {
+    "date_reference": "2010-06-01",
+    "month": 6,
+    "year": 2010,
+    "index": "SELIC",
+    "value": 9.91
+  },
+  {
+    "date_reference": "2010-07-01",
+    "month": 7,
+    "year": 2010,
+    "index": "SELIC",
+    "value": 10.3
+  },
+  {
+    "date_reference": "2010-08-01",
+    "month": 8,
+    "year": 2010,
+    "index": "SELIC",
+    "value": 10.64
+  },
+  {
+    "date_reference": "2010-09-01",
+    "month": 9,
+    "year": 2010,
+    "index": "SELIC",
+    "value": 10.62
+  },
+  {
+    "date_reference": "2010-10-01",
+    "month": 10,
+    "year": 2010,
+    "index": "SELIC",
+    "value": 10.64
+  },
+  {
+    "date_reference": "2010-11-01",
+    "month": 11,
+    "year": 2010,
+    "index": "SELIC",
+    "value": 10.64
+  },
+  {
+    "date_reference": "2010-12-01",
+    "month": 12,
+    "year": 2010,
+    "index": "SELIC",
+    "value": 10.64
+  },
+  {
+    "date_reference": "2011-01-01",
+    "month": 1,
+    "year": 2011,
+    "index": "SELIC",
+    "value": 10.83
+  },
+  {
+    "date_reference": "2011-02-01",
+    "month": 2,
+    "year": 2011,
+    "index": "SELIC",
+    "value": 11.15
+  },
+  {
+    "date_reference": "2011-03-01",
+    "month": 3,
+    "year": 2011,
+    "index": "SELIC",
+    "value": 11.6
+  },
+  {
+    "date_reference": "2011-04-01",
+    "month": 4,
+    "year": 2011,
+    "index": "SELIC",
+    "value": 11.72
+  },
+  {
+    "date_reference": "2011-05-01",
+    "month": 5,
+    "year": 2011,
+    "index": "SELIC",
+    "value": 11.89
+  },
+  {
+    "date_reference": "2011-06-01",
+    "month": 6,
+    "year": 2011,
+    "index": "SELIC",
+    "value": 12.05
+  },
+  {
+    "date_reference": "2011-07-01",
+    "month": 7,
+    "year": 2011,
+    "index": "SELIC",
+    "value": 12.24
+  },
+  {
+    "date_reference": "2011-08-01",
+    "month": 8,
+    "year": 2011,
+    "index": "SELIC",
+    "value": 12.4
+  },
+  {
+    "date_reference": "2011-09-01",
+    "month": 9,
+    "year": 2011,
+    "index": "SELIC",
+    "value": 11.88
+  },
+  {
+    "date_reference": "2011-10-01",
+    "month": 10,
+    "year": 2011,
+    "index": "SELIC",
+    "value": 11.68
+  },
+  {
+    "date_reference": "2011-11-01",
+    "month": 11,
+    "year": 2011,
+    "index": "SELIC",
+    "value": 11.37
+  },
+  {
+    "date_reference": "2011-12-01",
+    "month": 12,
+    "year": 2011,
+    "index": "SELIC",
+    "value": 10.87
+  },
+  {
+    "date_reference": "2012-01-01",
+    "month": 1,
+    "year": 2012,
+    "index": "SELIC",
+    "value": 10.62
+  },
+  {
+    "date_reference": "2012-02-01",
+    "month": 2,
+    "year": 2012,
+    "index": "SELIC",
+    "value": 10.3
+  },
+  {
+    "date_reference": "2012-03-01",
+    "month": 3,
+    "year": 2012,
+    "index": "SELIC",
+    "value": 9.66
+  },
+  {
+    "date_reference": "2012-04-01",
+    "month": 4,
+    "year": 2012,
+    "index": "SELIC",
+    "value": 9.19
+  },
+  {
+    "date_reference": "2012-05-01",
+    "month": 5,
+    "year": 2012,
+    "index": "SELIC",
+    "value": 8.72
+  },
+  {
+    "date_reference": "2012-06-01",
+    "month": 6,
+    "year": 2012,
+    "index": "SELIC",
+    "value": 8.35
+  },
+  {
+    "date_reference": "2012-07-01",
+    "month": 7,
+    "year": 2012,
+    "index": "SELIC",
+    "value": 8.02
+  },
+  {
+    "date_reference": "2012-08-01",
+    "month": 8,
+    "year": 2012,
+    "index": "SELIC",
+    "value": 7.78
+  },
+  {
+    "date_reference": "2012-09-01",
+    "month": 9,
+    "year": 2012,
+    "index": "SELIC",
+    "value": 7.36
+  },
+  {
+    "date_reference": "2012-10-01",
+    "month": 10,
+    "year": 2012,
+    "index": "SELIC",
+    "value": 7.18
+  },
+  {
+    "date_reference": "2012-11-01",
+    "month": 11,
+    "year": 2012,
+    "index": "SELIC",
+    "value": 7.08
+  },
+  {
+    "date_reference": "2012-12-01",
+    "month": 12,
+    "year": 2012,
+    "index": "SELIC",
+    "value": 6.94
+  },
+  {
+    "date_reference": "2013-01-01",
+    "month": 1,
+    "year": 2013,
+    "index": "SELIC",
+    "value": 6.93
+  },
+  {
+    "date_reference": "2013-02-01",
+    "month": 2,
+    "year": 2013,
+    "index": "SELIC",
+    "value": 6.96
+  },
+  {
+    "date_reference": "2013-03-01",
+    "month": 3,
+    "year": 2013,
+    "index": "SELIC",
+    "value": 6.99
+  },
+  {
+    "date_reference": "2013-04-01",
+    "month": 4,
+    "year": 2013,
+    "index": "SELIC",
+    "value": 7.1
+  },
+  {
+    "date_reference": "2013-05-01",
+    "month": 5,
+    "year": 2013,
+    "index": "SELIC",
+    "value": 7.25
+  },
+  {
+    "date_reference": "2013-06-01",
+    "month": 6,
+    "year": 2013,
+    "index": "SELIC",
+    "value": 7.72
+  },
+  {
+    "date_reference": "2013-07-01",
+    "month": 7,
+    "year": 2013,
+    "index": "SELIC",
+    "value": 8.05
+  },
+  {
+    "date_reference": "2013-08-01",
+    "month": 8,
+    "year": 2013,
+    "index": "SELIC",
+    "value": 8.27
+  },
+  {
+    "date_reference": "2013-09-01",
+    "month": 9,
+    "year": 2013,
+    "index": "SELIC",
+    "value": 8.72
+  },
+  {
+    "date_reference": "2013-10-01",
+    "month": 10,
+    "year": 2013,
+    "index": "SELIC",
+    "value": 9.16
+  },
+  {
+    "date_reference": "2013-11-01",
+    "month": 11,
+    "year": 2013,
+    "index": "SELIC",
+    "value": 9.33
+  },
+  {
+    "date_reference": "2013-12-01",
+    "month": 12,
+    "year": 2013,
+    "index": "SELIC",
+    "value": 9.78
+  },
+  {
+    "date_reference": "2014-01-01",
+    "month": 1,
+    "year": 2014,
+    "index": "SELIC",
+    "value": 10.05
+  },
+  {
+    "date_reference": "2014-02-01",
+    "month": 2,
+    "year": 2014,
+    "index": "SELIC",
+    "value": 10.32
+  },
+  {
+    "date_reference": "2014-03-01",
+    "month": 3,
+    "year": 2014,
+    "index": "SELIC",
+    "value": 10.56
+  },
+  {
+    "date_reference": "2014-04-01",
+    "month": 4,
+    "year": 2014,
+    "index": "SELIC",
+    "value": 10.77
+  },
+  {
+    "date_reference": "2014-05-01",
+    "month": 5,
+    "year": 2014,
+    "index": "SELIC",
+    "value": 10.8
+  },
+  {
+    "date_reference": "2014-06-01",
+    "month": 6,
+    "year": 2014,
+    "index": "SELIC",
+    "value": 10.8
+  },
+  {
+    "date_reference": "2014-07-01",
+    "month": 7,
+    "year": 2014,
+    "index": "SELIC",
+    "value": 10.8
+  },
+  {
+    "date_reference": "2014-08-01",
+    "month": 8,
+    "year": 2014,
+    "index": "SELIC",
+    "value": 10.82
+  },
+  {
+    "date_reference": "2014-09-01",
+    "month": 9,
+    "year": 2014,
+    "index": "SELIC",
+    "value": 10.82
+  },
+  {
+    "date_reference": "2014-10-01",
+    "month": 10,
+    "year": 2014,
+    "index": "SELIC",
+    "value": 10.85
+  },
+  {
+    "date_reference": "2014-11-01",
+    "month": 11,
+    "year": 2014,
+    "index": "SELIC",
+    "value": 11.09
+  },
+  {
+    "date_reference": "2014-12-01",
+    "month": 12,
+    "year": 2014,
+    "index": "SELIC",
+    "value": 11.51
+  },
+  {
+    "date_reference": "2015-01-01",
+    "month": 1,
+    "year": 2015,
+    "index": "SELIC",
+    "value": 11.74
+  },
+  {
+    "date_reference": "2015-02-01",
+    "month": 2,
+    "year": 2015,
+    "index": "SELIC",
+    "value": 12.09
+  },
+  {
+    "date_reference": "2015-03-01",
+    "month": 3,
+    "year": 2015,
+    "index": "SELIC",
+    "value": 12.53
+  },
+  {
+    "date_reference": "2015-04-01",
+    "month": 4,
+    "year": 2015,
+    "index": "SELIC",
+    "value": 12.63
+  },
+  {
+    "date_reference": "2015-05-01",
+    "month": 5,
+    "year": 2015,
+    "index": "SELIC",
+    "value": 13.13
+  },
+  {
+    "date_reference": "2015-06-01",
+    "month": 6,
+    "year": 2015,
+    "index": "SELIC",
+    "value": 13.57
+  },
+  {
+    "date_reference": "2015-07-01",
+    "month": 7,
+    "year": 2015,
+    "index": "SELIC",
+    "value": 13.68
+  },
+  {
+    "date_reference": "2015-08-01",
+    "month": 8,
+    "year": 2015,
+    "index": "SELIC",
+    "value": 14.13
+  },
+  {
+    "date_reference": "2015-09-01",
+    "month": 9,
+    "year": 2015,
+    "index": "SELIC",
+    "value": 14.13
+  },
+  {
+    "date_reference": "2015-10-01",
+    "month": 10,
+    "year": 2015,
+    "index": "SELIC",
+    "value": 14.13
+  },
+  {
+    "date_reference": "2015-11-01",
+    "month": 11,
+    "year": 2015,
+    "index": "SELIC",
+    "value": 14.14
+  },
+  {
+    "date_reference": "2015-12-01",
+    "month": 12,
+    "year": 2015,
+    "index": "SELIC",
+    "value": 14.14
+  },
+  {
+    "date_reference": "2016-01-01",
+    "month": 1,
+    "year": 2016,
+    "index": "SELIC",
+    "value": 14.14
+  },
+  {
+    "date_reference": "2016-02-01",
+    "month": 2,
+    "year": 2016,
+    "index": "SELIC",
+    "value": 14.13
+  },
+  {
+    "date_reference": "2016-03-01",
+    "month": 3,
+    "year": 2016,
+    "index": "SELIC",
+    "value": 14.13
+  },
+  {
+    "date_reference": "2016-04-01",
+    "month": 4,
+    "year": 2016,
+    "index": "SELIC",
+    "value": 14.13
+  },
+  {
+    "date_reference": "2016-05-01",
+    "month": 5,
+    "year": 2016,
+    "index": "SELIC",
+    "value": 14.13
+  },
+  {
+    "date_reference": "2016-06-01",
+    "month": 6,
+    "year": 2016,
+    "index": "SELIC",
+    "value": 14.13
+  },
+  {
+    "date_reference": "2016-07-01",
+    "month": 7,
+    "year": 2016,
+    "index": "SELIC",
+    "value": 14.13
+  },
+  {
+    "date_reference": "2016-08-01",
+    "month": 8,
+    "year": 2016,
+    "index": "SELIC",
+    "value": 14.13
+  },
+  {
+    "date_reference": "2016-09-01",
+    "month": 9,
+    "year": 2016,
+    "index": "SELIC",
+    "value": 14.13
+  },
+  {
+    "date_reference": "2016-10-01",
+    "month": 10,
+    "year": 2016,
+    "index": "SELIC",
+    "value": 14.03
+  },
+  {
+    "date_reference": "2016-11-01",
+    "month": 11,
+    "year": 2016,
+    "index": "SELIC",
+    "value": 13.88
+  },
+  {
+    "date_reference": "2016-12-01",
+    "month": 12,
+    "year": 2016,
+    "index": "SELIC",
+    "value": 13.63
+  },
+  {
+    "date_reference": "2017-01-01",
+    "month": 1,
+    "year": 2017,
+    "index": "SELIC",
+    "value": 13.15
+  },
+  {
+    "date_reference": "2017-02-01",
+    "month": 2,
+    "year": 2017,
+    "index": "SELIC",
+    "value": 12.8
+  },
+  {
+    "date_reference": "2017-03-01",
+    "month": 3,
+    "year": 2017,
+    "index": "SELIC",
+    "value": 12.13
+  },
+  {
+    "date_reference": "2017-04-01",
+    "month": 4,
+    "year": 2017,
+    "index": "SELIC",
+    "value": 11.57
+  },
+  {
+    "date_reference": "2017-05-01",
+    "month": 5,
+    "year": 2017,
+    "index": "SELIC",
+    "value": 11.13
+  },
+  {
+    "date_reference": "2017-06-01",
+    "month": 6,
+    "year": 2017,
+    "index": "SELIC",
+    "value": 10.14
+  },
+  {
+    "date_reference": "2017-07-01",
+    "month": 7,
+    "year": 2017,
+    "index": "SELIC",
+    "value": 10.0
+  },
+  {
+    "date_reference": "2017-08-01",
+    "month": 8,
+    "year": 2017,
+    "index": "SELIC",
+    "value": 9.14
+  },
+  {
+    "date_reference": "2017-09-01",
+    "month": 9,
+    "year": 2017,
+    "index": "SELIC",
+    "value": 8.34
+  },
+  {
+    "date_reference": "2017-10-01",
+    "month": 10,
+    "year": 2017,
+    "index": "SELIC",
+    "value": 8.0
+  },
+  {
+    "date_reference": "2017-11-01",
+    "month": 11,
+    "year": 2017,
+    "index": "SELIC",
+    "value": 7.39
+  },
+  {
+    "date_reference": "2017-12-01",
+    "month": 12,
+    "year": 2017,
+    "index": "SELIC",
+    "value": 6.99
+  },
+  {
+    "date_reference": "2018-01-01",
+    "month": 1,
+    "year": 2018,
+    "index": "SELIC",
+    "value": 6.89
+  },
+  {
+    "date_reference": "2018-02-01",
+    "month": 2,
+    "year": 2018,
+    "index": "SELIC",
+    "value": 6.71
+  },
+  {
+    "date_reference": "2018-03-01",
+    "month": 3,
+    "year": 2018,
+    "index": "SELIC",
+    "value": 6.57
+  },
+  {
+    "date_reference": "2018-04-01",
+    "month": 4,
+    "year": 2018,
+    "index": "SELIC",
+    "value": 6.39
+  },
+  {
+    "date_reference": "2018-05-01",
+    "month": 5,
+    "year": 2018,
+    "index": "SELIC",
+    "value": 6.39
+  },
+  {
+    "date_reference": "2018-06-01",
+    "month": 6,
+    "year": 2018,
+    "index": "SELIC",
+    "value": 6.39
+  },
+  {
+    "date_reference": "2018-07-01",
+    "month": 7,
+    "year": 2018,
+    "index": "SELIC",
+    "value": 6.39
+  },
+  {
+    "date_reference": "2018-08-01",
+    "month": 8,
+    "year": 2018,
+    "index": "SELIC",
+    "value": 6.39
+  },
+  {
+    "date_reference": "2018-09-01",
+    "month": 9,
+    "year": 2018,
+    "index": "SELIC",
+    "value": 6.39
+  },
+  {
+    "date_reference": "2018-10-01",
+    "month": 10,
+    "year": 2018,
+    "index": "SELIC",
+    "value": 6.4
+  },
+  {
+    "date_reference": "2018-11-01",
+    "month": 11,
+    "year": 2018,
+    "index": "SELIC",
+    "value": 6.4
+  },
+  {
+    "date_reference": "2018-12-01",
+    "month": 12,
+    "year": 2018,
+    "index": "SELIC",
+    "value": 6.4
+  },
+  {
+    "date_reference": "2019-01-01",
+    "month": 1,
+    "year": 2019,
+    "index": "SELIC",
+    "value": 6.4
+  },
+  {
+    "date_reference": "2019-02-01",
+    "month": 2,
+    "year": 2019,
+    "index": "SELIC",
+    "value": 6.4
+  },
+  {
+    "date_reference": "2019-03-01",
+    "month": 3,
+    "year": 2019,
+    "index": "SELIC",
+    "value": 6.4
+  },
+  {
+    "date_reference": "2019-04-01",
+    "month": 4,
+    "year": 2019,
+    "index": "SELIC",
+    "value": 6.4
+  },
+  {
+    "date_reference": "2019-05-01",
+    "month": 5,
+    "year": 2019,
+    "index": "SELIC",
+    "value": 6.4
+  },
+  {
+    "date_reference": "2019-06-01",
+    "month": 6,
+    "year": 2019,
+    "index": "SELIC",
+    "value": 6.4
+  },
+  {
+    "date_reference": "2019-07-01",
+    "month": 7,
+    "year": 2019,
+    "index": "SELIC",
+    "value": 6.4
+  },
+  {
+    "date_reference": "2019-08-01",
+    "month": 8,
+    "year": 2019,
+    "index": "SELIC",
+    "value": 5.9
+  },
+  {
+    "date_reference": "2019-09-01",
+    "month": 9,
+    "year": 2019,
+    "index": "SELIC",
+    "value": 5.71
+  },
+  {
+    "date_reference": "2019-10-01",
+    "month": 10,
+    "year": 2019,
+    "index": "SELIC",
+    "value": 5.38
+  },
+  {
+    "date_reference": "2019-11-01",
+    "month": 11,
+    "year": 2019,
+    "index": "SELIC",
+    "value": 4.9
+  },
+  {
+    "date_reference": "2019-12-01",
+    "month": 12,
+    "year": 2019,
+    "index": "SELIC",
+    "value": 4.59
+  },
+  {
+    "date_reference": "2020-01-01",
+    "month": 1,
+    "year": 2020,
+    "index": "SELIC",
+    "value": 4.4
+  },
+  {
+    "date_reference": "2020-02-01",
+    "month": 2,
+    "year": 2020,
+    "index": "SELIC",
+    "value": 4.19
+  },
+  {
+    "date_reference": "2020-03-01",
+    "month": 3,
+    "year": 2020,
+    "index": "SELIC",
+    "value": 3.95
+  },
+  {
+    "date_reference": "2020-04-01",
+    "month": 4,
+    "year": 2020,
+    "index": "SELIC",
+    "value": 3.65
+  },
+  {
+    "date_reference": "2020-05-01",
+    "month": 5,
+    "year": 2020,
+    "index": "SELIC",
+    "value": 3.01
+  },
+  {
+    "date_reference": "2020-06-01",
+    "month": 6,
+    "year": 2020,
+    "index": "SELIC",
+    "value": 2.58
+  },
+  {
+    "date_reference": "2020-07-01",
+    "month": 7,
+    "year": 2020,
+    "index": "SELIC",
+    "value": 2.15
+  },
+  {
+    "date_reference": "2020-08-01",
+    "month": 8,
+    "year": 2020,
+    "index": "SELIC",
+    "value": 1.94
+  },
+  {
+    "date_reference": "2020-09-01",
+    "month": 9,
+    "year": 2020,
+    "index": "SELIC",
+    "value": 1.9
+  },
+  {
+    "date_reference": "2020-10-01",
+    "month": 10,
+    "year": 2020,
+    "index": "SELIC",
+    "value": 1.9
+  },
+  {
+    "date_reference": "2020-11-01",
+    "month": 11,
+    "year": 2020,
+    "index": "SELIC",
+    "value": 1.9
+  },
+  {
+    "date_reference": "2020-12-01",
+    "month": 12,
+    "year": 2020,
+    "index": "SELIC",
+    "value": 1.9
+  },
+  {
+    "date_reference": "2021-01-01",
+    "month": 1,
+    "year": 2021,
+    "index": "SELIC",
+    "value": 1.9
+  },
+  {
+    "date_reference": "2021-02-01",
+    "month": 2,
+    "year": 2021,
+    "index": "SELIC",
+    "value": 1.9
+  },
+  {
+    "date_reference": "2021-03-01",
+    "month": 3,
+    "year": 2021,
+    "index": "SELIC",
+    "value": 2.23
+  },
+  {
+    "date_reference": "2021-04-01",
+    "month": 4,
+    "year": 2021,
+    "index": "SELIC",
+    "value": 2.65
+  },
+  {
+    "date_reference": "2021-05-01",
+    "month": 5,
+    "year": 2021,
+    "index": "SELIC",
+    "value": 3.29
+  },
+  {
+    "date_reference": "2021-06-01",
+    "month": 6,
+    "year": 2021,
+    "index": "SELIC",
+    "value": 3.76
+  },
+  {
+    "date_reference": "2021-07-01",
+    "month": 7,
+    "year": 2021,
+    "index": "SELIC",
+    "value": 4.15
+  },
+  {
+    "date_reference": "2021-08-01",
+    "month": 8,
+    "year": 2021,
+    "index": "SELIC",
+    "value": 5.01
+  },
+  {
+    "date_reference": "2021-09-01",
+    "month": 9,
+    "year": 2021,
+    "index": "SELIC",
+    "value": 5.43
+  },
+  {
+    "date_reference": "2021-10-01",
+    "month": 10,
+    "year": 2021,
+    "index": "SELIC",
+    "value": 6.3
+  },
+  {
+    "date_reference": "2021-11-01",
+    "month": 11,
+    "year": 2021,
+    "index": "SELIC",
+    "value": 7.65
+  },
+  {
+    "date_reference": "2021-12-01",
+    "month": 12,
+    "year": 2021,
+    "index": "SELIC",
+    "value": 8.76
+  },
+  {
+    "date_reference": "2022-01-01",
+    "month": 1,
+    "year": 2022,
+    "index": "SELIC",
+    "value": 9.15
+  },
+  {
+    "date_reference": "2022-02-01",
+    "month": 2,
+    "year": 2022,
+    "index": "SELIC",
+    "value": 10.49
+  },
+  {
+    "date_reference": "2022-03-01",
+    "month": 3,
+    "year": 2022,
+    "index": "SELIC",
+    "value": 11.15
+  },
+  {
+    "date_reference": "2022-04-01",
+    "month": 4,
+    "year": 2022,
+    "index": "SELIC",
+    "value": 11.65
+  },
+  {
+    "date_reference": "2022-05-01",
+    "month": 5,
+    "year": 2022,
+    "index": "SELIC",
+    "value": 12.51
+  },
+  {
+    "date_reference": "2022-06-01",
+    "month": 6,
+    "year": 2022,
+    "index": "SELIC",
+    "value": 12.89
+  },
+  {
+    "date_reference": "2022-07-01",
+    "month": 7,
+    "year": 2022,
+    "index": "SELIC",
+    "value": 13.15
+  },
+  {
+    "date_reference": "2022-08-01",
+    "month": 8,
+    "year": 2022,
+    "index": "SELIC",
+    "value": 13.58
+  },
+  {
+    "date_reference": "2022-09-01",
+    "month": 9,
+    "year": 2022,
+    "index": "SELIC",
+    "value": 13.65
+  },
+  {
+    "date_reference": "2022-10-01",
+    "month": 10,
+    "year": 2022,
+    "index": "SELIC",
+    "value": 13.65
+  },
+  {
+    "date_reference": "2022-11-01",
+    "month": 11,
+    "year": 2022,
+    "index": "SELIC",
+    "value": 13.65
+  },
+  {
+    "date_reference": "2022-12-01",
+    "month": 12,
+    "year": 2022,
+    "index": "SELIC",
+    "value": 13.65
+  },
+  {
+    "date_reference": "2023-01-01",
+    "month": 1,
+    "year": 2023,
+    "index": "SELIC",
+    "value": 13.65
+  },
+  {
+    "date_reference": "2023-02-01",
+    "month": 2,
+    "year": 2023,
+    "index": "SELIC",
+    "value": 13.65
+  },
+  {
+    "date_reference": "2023-03-01",
+    "month": 3,
+    "year": 2023,
+    "index": "SELIC",
+    "value": 13.65
+  },
+  {
+    "date_reference": "2023-04-01",
+    "month": 4,
+    "year": 2023,
+    "index": "SELIC",
+    "value": 13.65
+  },
+  {
+    "date_reference": "2023-05-01",
+    "month": 5,
+    "year": 2023,
+    "index": "SELIC",
+    "value": 13.65
+  },
+  {
+    "date_reference": "2023-06-01",
+    "month": 6,
+    "year": 2023,
+    "index": "SELIC",
+    "value": 13.65
+  },
+  {
+    "date_reference": "2023-07-01",
+    "month": 7,
+    "year": 2023,
+    "index": "SELIC",
+    "value": 13.65
+  },
+  {
+    "date_reference": "2023-08-01",
+    "month": 8,
+    "year": 2023,
+    "index": "SELIC",
+    "value": 13.19
+  },
+  {
+    "date_reference": "2023-09-01",
+    "month": 9,
+    "year": 2023,
+    "index": "SELIC",
+    "value": 12.97
+  },
+  {
+    "date_reference": "2023-10-01",
+    "month": 10,
+    "year": 2023,
+    "index": "SELIC",
+    "value": 12.65
+  },
+  {
+    "date_reference": "2023-11-01",
+    "month": 11,
+    "year": 2023,
+    "index": "SELIC",
+    "value": 12.17
+  },
+  {
+    "date_reference": "2023-12-01",
+    "month": 12,
+    "year": 2023,
+    "index": "SELIC",
+    "value": 11.87
+  },
+  {
+    "date_reference": "2024-01-01",
+    "month": 1,
+    "year": 2024,
+    "index": "SELIC",
+    "value": 11.65
+  },
+  {
+    "date_reference": "2024-02-01",
+    "month": 2,
+    "year": 2024,
+    "index": "SELIC",
+    "value": 11.15
+  },
+  {
+    "date_reference": "2024-03-01",
+    "month": 3,
+    "year": 2024,
+    "index": "SELIC",
+    "value": 11.0
+  },
+  {
+    "date_reference": "2024-04-01",
+    "month": 4,
+    "year": 2024,
+    "index": "SELIC",
+    "value": 10.65
+  },
+  {
+    "date_reference": "2024-05-01",
+    "month": 5,
+    "year": 2024,
+    "index": "SELIC",
+    "value": 10.46
+  },
+  {
+    "date_reference": "2024-06-01",
+    "month": 6,
+    "year": 2024,
+    "index": "SELIC",
+    "value": 10.4
+  },
+  {
+    "date_reference": "2024-07-01",
+    "month": 7,
+    "year": 2024,
+    "index": "SELIC",
+    "value": 10.4
+  },
+  {
+    "date_reference": "2024-08-01",
+    "month": 8,
+    "year": 2024,
+    "index": "SELIC",
+    "value": 10.4
+  },
+  {
+    "date_reference": "2024-09-01",
+    "month": 9,
+    "year": 2024,
+    "index": "SELIC",
+    "value": 10.5
+  },
+  {
+    "date_reference": "2024-10-01",
+    "month": 10,
+    "year": 2024,
+    "index": "SELIC",
+    "value": 10.65
+  },
+  {
+    "date_reference": "2024-11-01",
+    "month": 11,
+    "year": 2024,
+    "index": "SELIC",
+    "value": 11.04
+  },
+  {
+    "date_reference": "2024-12-01",
+    "month": 12,
+    "year": 2024,
+    "index": "SELIC",
+    "value": 11.77
+  }
+]

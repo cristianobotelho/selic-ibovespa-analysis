@@ -1,0 +1,2 @@
+[console_scripts]
+ibovselic = ibovselic.cli:main

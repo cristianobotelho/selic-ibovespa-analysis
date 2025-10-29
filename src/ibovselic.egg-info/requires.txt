@@ -1,0 +1,10 @@
+requests>=2.32
+pydantic>=2.7
+
+[analysis]
+jupyter>=1.0
+matplotlib>=3.8
+numpy>=2.0
+pandas>=2.2
+seaborn>=0.13
+statsmodels>=0.14

@@ -93,9 +93,7 @@ O Teste $F$ é um **Teste de Significância Global** do modelo.
 O Teste $F$ avalia se **pelo menos uma** das variáveis explicativas ($X$) tem um poder de explicação estatisticamente significativo sobre a variável dependente ($Y$).
 
 * **Hipótese Nula ($H_0$):** Todos os coeficientes de inclinação são **zero**.
-    * No seu MRLS (apenas $\hat{\beta}_1$): $H_0: \beta_1 = 0$.
 * **Hipótese Alternativa ($H_A$):** Pelo menos um coeficiente de inclinação é **diferente de zero**.
-    * No seu MRLS: $H_A: \beta_1 \neq 0$.
 
 Se você **rejeitar $H_0$**, isso significa que o seu modelo, como um todo, é estatisticamente útil e que a variável SELIC ($X$) é relevante na explicação do IBOV ($Y$).
 
@@ -144,7 +142,3 @@ Para obter inferência válida sob heterocedasticidade, utilizamos o Erro Padrã
 | **`t_Robusto_beta_1`** | Estatística $t$ Robusta | $\hat{\beta}_1 / SE_{Robusto}(\hat{\beta}_1)$ | Teste de significância **válido** sob heterocedasticidade. |
 
 ---
-
-Com esta organização, você tem tanto o código quanto a fundamentação teórica clara para o seu projeto!
-
-Gostaria que eu montasse o código Polars/SQL para um teste formal de heterocedasticidade, como o **Teste de Breusch-Pagan** ou **Teste de White**, que são detalhados no Capítulo 11 do Gujarati?

@@ -84,7 +84,7 @@ Os testes de hipóteses determinam se os coeficientes são estatisticamente sign
 | **`t_beta_0`** | Estatística $t$ | $\beta_0 = 0$ | $\hat{\beta}_0 / SE(\hat{\beta}_0)$ | Testa a significância **individual** de $\hat{\beta}_0$. |
 
 
-## 🧐 O Significado do Teste $F$ (Gujarati, Capítulo 5)
+## O Significado do Teste $F$ (Gujarati, Capítulo 5)
 
 O Teste $F$ é um **Teste de Significância Global** do modelo.
 
